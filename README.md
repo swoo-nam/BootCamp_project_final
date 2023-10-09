@@ -1,1 +1,1 @@
-<img src='images/main.png'> </img>
+<img src='image/main.png'> </img>
